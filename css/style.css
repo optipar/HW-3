@@ -1,0 +1,71 @@
+.q {
+  box-sizing: border-box;
+  width: 1000px;
+  height: 100px;
+  margin: auto;
+  border-radius: 45px 45px 0 0;
+  background-color: black;
+}
+
+.qq {
+  width: 642px;
+  height: 30px;
+  margin: auto;
+  text-align: center;
+  line-height: 100px;
+  vertical-align: middle;
+  font-family: 'Codystar', cursive;
+  font-size: 40px; /* Нормальное начертание */
+  color: #fcfcfc;
+}
+
+.w {
+  width: 1000px;
+  height: 1000px;
+  margin: 30px auto;
+  background-color: black;
+}
+
+.ww {
+  display: inline-block;
+}
+
+.www {
+  width: 400px;
+  height: 550px;
+  padding: 30px 0 0 0;
+  vertical-align: middle;
+}
+
+.wwww {
+  display: inline-block;
+  width: 500px;
+  height: 500px;
+  vertical-align: middle;
+  font-family: 'Jura', sans-serif;
+  font-size: 25px;
+  color: #fcfcfc
+}
+
+.e {
+  text-align: right;
+}
+
+ul.hr {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+   }
+ul.hr li {
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+    padding: 3px; /* Поля вокруг текста */
+   }
+
+   ul {
+    list-style-image: url(D:/GoIt/hello/fe-core-hw/img/2.jpg); /* Путь к изображению маркера */
+   }
+
+body {
+    background: black url(https://img1.goodfon.ru/original/1920x1080/2/2f/kitay-drakony-cherno-beloe.jpg); /* Цвет фона и путь к файлу */
+    color: #fff; /* Цвет текста */
+   }
